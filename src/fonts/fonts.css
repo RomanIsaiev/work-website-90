@@ -39,3 +39,15 @@
   src: url(../fonts/FUTURAPT-HEAVY.TTF);
   font-weight: 900;
 }
+
+@font-face {
+  font-family: 'Benzin-Medium';
+  src: url(./Benzin-Medium.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Benzin-Semibold';
+  src: url(./Benzin-Semibold.ttf);
+  font-weight: 400;
+}
