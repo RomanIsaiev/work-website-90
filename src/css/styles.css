@@ -678,6 +678,11 @@ body {
   margin: 60px auto 0 auto;
 }
 
+.widget {
+  border-radius: 20px;
+  border: 10px solid white;
+}
+
 /* how-study */
 
 .how-study {
