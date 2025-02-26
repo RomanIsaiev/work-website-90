@@ -82,7 +82,7 @@ body {
 
 .header .text:nth-of-type(2) {
   text-align: right;
-  max-width: 60px;
+  max-width: 70px;
 }
 
 #monthElement {
